@@ -1,0 +1,45 @@
+1:"$Sreact.fragment"
+2:I[32013,["/_next/static/chunks/31u9ie4sxmdwn.js","/_next/static/chunks/3b2n8qrvj53de.js"],"default"]
+3:I[22016,["/_next/static/chunks/31u9ie4sxmdwn.js","/_next/static/chunks/3b2n8qrvj53de.js"],""]
+4:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+9:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+a:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+8:X
+24:X
+24:C
+0:{"buildId":"uA1Uc8JWAu2NmlPQoy4H7","data":[{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"flex flex-1 flex-col","children":[["$","div",null,{"className":"mx-auto max-w-5xl px-6 py-16","children":[["$","p",null,{"className":"font-mono text-micro uppercase tracking-[0.08em] text-moss-deep","children":"Nous soutenir"}],["$","h1",null,{"className":"font-serif mt-3 text-display font-bold leading-tight text-ink","children":"Nous soutenir"}],["$","p",null,{"className":"mt-4 max-w-prose text-body-lg text-ink-soft","children":"Faites un don, devenez bénévole ou devenez membre. Il existe plusieurs façons de soutenir l'action de REN."}]]}],["$","div",null,{"className":"border-y border-line-soft bg-indigo-tint","children":["$","$L2",null,{"className":"mx-auto block w-full max-w-md"}]}],["$","div",null,{"className":"mx-auto max-w-5xl px-6 py-16","children":["$","div",null,{"className":"grid gap-6 sm:grid-cols-2","children":[["$","$L3","/fr/get-involved/donate",{"href":"/fr/get-involved/donate","className":"card-interactive flex flex-col gap-2 rounded-md border border-line-soft bg-surface p-6 transition-transform hover:-translate-y-1","children":[["$","h2",null,{"className":"text-h3 font-bold text-ink","children":"Faire un don"}],["$","p",null,{"className":"text-body text-ink-soft","children":"Des dons ponctuels ou mensuels réguliers."}]]}],["$","$L3","/fr/get-involved/volunteer",{"href":"/fr/get-involved/volunteer","className":"card-interactive flex flex-col gap-2 rounded-md border border-line-soft bg-surface p-6 transition-transform hover:-translate-y-1","children":[["$","h2",null,{"className":"text-h3 font-bold text-ink","children":"Devenir bénévole"}],["$","p",null,{"className":"text-body text-ink-soft","children":"Aidez directement pour les cours de japonais, les perles et les événements."}]]}],["$","$L3","/fr/get-involved/membership",{"href":"/fr/get-involved/membership","className":"card-interactive flex flex-col gap-2 rounded-md border border-line-soft bg-surface p-6 transition-transform hover:-translate-y-1","children":[["$","h2",null,{"className":"text-h3 font-bold text-ink","children":"Devenir membre"}],["$","p",null,{"className":"text-body text-ink-soft","children":"Soutenez REN dans la durée comme membre titulaire ou bienfaiteur."}]]}],["$","$L3","/fr/get-involved/corporate",{"href":"/fr/get-involved/corporate","className":"card-interactive flex flex-col gap-2 rounded-md border border-line-soft bg-surface p-6 transition-transform hover:-translate-y-1","children":[["$","h2",null,{"className":"text-h3 font-bold text-ink","children":"Entreprises et subventions"}],["$","p",null,{"className":"text-body text-ink-soft","children":"Pour les organisations et les organismes qui accordent des subventions."}]]}],["$","$L3","/fr/get-involved/connected-giving",{"href":"/fr/get-involved/connected-giving","className":"card-interactive flex flex-col gap-2 rounded-md border border-line-soft bg-surface p-6 transition-transform hover:-translate-y-1","children":[["$","h2",null,{"className":"text-h3 font-bold text-ink","children":"Don par achat"}],["$","p",null,{"className":"text-body text-ink-soft","children":"L'achat d'un ordinateur éthique « ZERO PC » devient un don à REN."}]]}]]}]}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/3b2n8qrvj53de.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":"$@7","staleTime":"$8","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L9",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#ffffff"}]]}],["$","div",null,{"hidden":true,"children":["$","$La",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Nous soutenir | REN"}],["$","meta","1",{"name":"description","content":"Faites un don, devenez bénévole ou devenez membre. Il existe plusieurs façons de soutenir l'action de REN."}],["$","meta","2",{"name":"application-name","content":"REN"}],"$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f"]}]}]}],"$L20"]}],"isPartial":"$@21","staleTime":"$8","varyParams":null},{"rsc":"$L22","isPartial":"$@23","staleTime":"$8","varyParams":"$24"}],"isUpgradeableISRFallback":false,"a":"$@25","rootVaryParams":null,"needsRuntimeRequest":"$@26"}
+27:I[27201,["/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+28:I[39756,["/_next/static/chunks/3fntmmi971322.js"],"default"]
+29:I[37457,["/_next/static/chunks/3fntmmi971322.js"],"default"]
+6:null
+b:["$","link","3",{"rel":"manifest","href":"/site.webmanifest"}]
+c:["$","meta","4",{"name":"robots","content":"noindex, nofollow"}]
+d:["$","link","5",{"rel":"canonical","href":"https://new.ren-nanmin.org/fr/get-involved/"}]
+e:["$","link","6",{"rel":"alternate","hrefLang":"ja","href":"https://new.ren-nanmin.org/ja/get-involved/"}]
+f:["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://new.ren-nanmin.org/en/get-involved/"}]
+10:["$","link","8",{"rel":"alternate","hrefLang":"fr","href":"https://new.ren-nanmin.org/fr/get-involved/"}]
+11:["$","link","9",{"rel":"alternate","hrefLang":"x-default","href":"https://new.ren-nanmin.org/ja/get-involved/"}]
+12:["$","meta","10",{"property":"og:title","content":"Nous soutenir"}]
+13:["$","meta","11",{"property":"og:description","content":"Faites un don, devenez bénévole ou devenez membre. Il existe plusieurs façons de soutenir l'action de REN."}]
+14:["$","meta","12",{"property":"og:locale","content":"fr"}]
+15:["$","meta","13",{"property":"og:image","content":"https://new.ren-nanmin.org/og/og-fr.png"}]
+16:["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}]
+17:["$","meta","15",{"name":"twitter:title","content":"Nous soutenir"}]
+18:["$","meta","16",{"name":"twitter:description","content":"Faites un don, devenez bénévole ou devenez membre. Il existe plusieurs façons de soutenir l'action de REN."}]
+19:["$","meta","17",{"name":"twitter:image","content":"https://new.ren-nanmin.org/og/og-fr.png"}]
+1a:["$","link","18",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}]
+1b:["$","link","19",{"rel":"icon","href":"/favicon.ico","sizes":"any"}]
+1c:["$","link","20",{"rel":"icon","href":"/icons/icon-32.png","type":"image/png","sizes":"32x32"}]
+1d:["$","link","21",{"rel":"icon","href":"/icons/icon-192.png","type":"image/png","sizes":"192x192"}]
+1e:["$","link","22",{"rel":"apple-touch-icon","href":"/icons/apple-touch-icon.png","sizes":"180x180"}]
+1f:["$","$L27","23",{}]
+20:["$","meta",null,{"name":"next-size-adjust","content":""}]
+22:["$","$1","c",{"children":[null,["$","$L28",null,{"parallelRouterKey":"children","template":["$","$L29",null,{}]}]]}]
+26:true
+8:300
+8:C
+25:0
+21:"$undefined"
+23:"$undefined"
+7:"$undefined"

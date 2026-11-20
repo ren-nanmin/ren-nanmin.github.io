@@ -1,0 +1,47 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/31u9ie4sxmdwn.js"],""]
+3:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+8:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+9:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+7:X
+24:X
+24:C
+0:{"buildId":"uA1Uc8JWAu2NmlPQoy4H7","data":[{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"flex flex-1 flex-col","children":[["$","div",null,{"className":"border-b border-line-soft bg-paper-deep","children":["$","div",null,{"className":"mx-auto max-w-5xl px-6 pb-10 pt-12 sm:pt-14","children":[["$","nav",null,{"aria-label":"About","className":"flex flex-wrap gap-2","children":[["$","$L2","/fr/about",{"href":"/fr/about","className":"rounded-full px-4 py-1.5 text-small font-semibold transition-colors duration-200 text-ink-soft hover:bg-surface hover:text-ink","children":"À propos"}],["$","$L2","/fr/about/policy",{"href":"/fr/about/policy","className":"rounded-full px-4 py-1.5 text-small font-semibold transition-colors duration-200 text-ink-soft hover:bg-surface hover:text-ink","children":"Notre approche"}],["$","$L2","/fr/about/team",{"href":"/fr/about/team","aria-current":"page","className":"rounded-full px-4 py-1.5 text-small font-semibold transition-colors duration-200 bg-indigo text-white","children":"Équipe et organisation"}],["$","$L2","/fr/about/transparency",{"href":"/fr/about/transparency","className":"rounded-full px-4 py-1.5 text-small font-semibold transition-colors duration-200 text-ink-soft hover:bg-surface hover:text-ink","children":"Transparence"}]]}],["$","p",null,{"className":"section-label text-moss-deep mt-8","children":"À propos"}],["$","h1",null,{"className":"font-serif text-display font-bold leading-tight text-ink mt-3","children":"Équipe et organisation"}],["$","p",null,{"className":"mt-4 max-w-prose text-body-lg text-ink-soft","children":"Les membres se répartissent en membres titulaires et membres bienfaiteurs. L'assemblée générale (les membres titulaires) et le conseil d'administration (administrateurs et commissaire aux comptes) arrêtent la politique et les plans. Le commissaire aux comptes contrôle les activités et les finances."}]]}]}],["$","div",null,{"className":"mx-auto max-w-5xl px-6 py-16","children":[["$","h2",null,{"className":"text-h3 font-bold text-ink","children":"Conseil d'administration 2025"}],["$","div",null,{"className":"mt-6 grid gap-4 sm:grid-cols-2","children":[["$","div",null,{"className":"card-interactive rounded-md border border-line-soft bg-surface p-5","children":[["$","p",null,{"className":"text-small text-ink-soft","children":"Président(e)"}],["$","p",null,{"className":"mt-1 text-h3 font-bold text-ink","children":"小林麻里"}]]}],["$","div",null,{"className":"card-interactive rounded-md border border-line-soft bg-surface p-5","children":[["$","p",null,{"className":"text-small text-ink-soft","children":"Vice-président(e)"}],["$","p",null,{"className":"mt-1 text-h3 font-bold text-ink","children":"平野述彦"}]]}],["$","div",null,{"className":"card-interactive rounded-md border border-line-soft bg-surface p-5 sm:col-span-2","children":[["$","p",null,{"className":"text-small text-ink-soft","children":"Administrateur"}],["$","p",null,{"className":"mt-2 text-body text-ink","children":"石谷尚子　鈴木陽子　宍戸廸武　野間眞佐子　秋元隆　柳島素子　木森隆　落合奈穂美　長永篤子"}]]}],["$","div",null,{"className":"card-interactive rounded-md border border-line-soft bg-surface p-5","children":[["$","p",null,{"className":"text-small text-ink-soft","children":"Commissaire aux comptes"}],["$","p",null,{"className":"mt-1 text-h3 font-bold text-ink","children":"林原行雄"}]]}]]}]]}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":"$@6","staleTime":"$7","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L8",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#ffffff"}]]}],["$","div",null,{"hidden":true,"children":["$","$L9",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Équipe et organisation | REN"}],["$","meta","1",{"name":"description","content":"Les membres se répartissent en membres titulaires et membres bienfaiteurs. L'assemblée générale (les membres titulaires) et le conseil d'administration (administrateurs et commissaire aux comptes) arrêtent la politique et les plans. Le commissaire aux comptes contrôle les activités et les finances."}],"$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f"]}]}]}],"$L20"]}],"isPartial":"$@21","staleTime":"$7","varyParams":null},{"rsc":"$L22","isPartial":"$@23","staleTime":"$7","varyParams":"$24"},{"rsc":"$L25","isPartial":"$@26","staleTime":"$7","varyParams":"$24"}],"isUpgradeableISRFallback":false,"a":"$@27","rootVaryParams":null,"needsRuntimeRequest":"$@28"}
+29:I[27201,["/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+2a:I[39756,["/_next/static/chunks/3fntmmi971322.js"],"default"]
+2b:I[37457,["/_next/static/chunks/3fntmmi971322.js"],"default"]
+5:null
+a:["$","meta","2",{"name":"application-name","content":"REN"}]
+b:["$","link","3",{"rel":"manifest","href":"/site.webmanifest"}]
+c:["$","meta","4",{"name":"robots","content":"noindex, nofollow"}]
+d:["$","link","5",{"rel":"canonical","href":"https://new.ren-nanmin.org/fr/about/team/"}]
+e:["$","link","6",{"rel":"alternate","hrefLang":"ja","href":"https://new.ren-nanmin.org/ja/about/team/"}]
+f:["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://new.ren-nanmin.org/en/about/team/"}]
+10:["$","link","8",{"rel":"alternate","hrefLang":"fr","href":"https://new.ren-nanmin.org/fr/about/team/"}]
+11:["$","link","9",{"rel":"alternate","hrefLang":"x-default","href":"https://new.ren-nanmin.org/ja/about/team/"}]
+12:["$","meta","10",{"property":"og:title","content":"Équipe et organisation"}]
+13:["$","meta","11",{"property":"og:description","content":"Les membres se répartissent en membres titulaires et membres bienfaiteurs. L'assemblée générale (les membres titulaires) et le conseil d'administration (administrateurs et commissaire aux comptes) arrêtent la politique et les plans. Le commissaire aux comptes contrôle les activités et les finances."}]
+14:["$","meta","12",{"property":"og:locale","content":"fr"}]
+15:["$","meta","13",{"property":"og:image","content":"https://new.ren-nanmin.org/og/og-fr.png"}]
+16:["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}]
+17:["$","meta","15",{"name":"twitter:title","content":"Équipe et organisation"}]
+18:["$","meta","16",{"name":"twitter:description","content":"Les membres se répartissent en membres titulaires et membres bienfaiteurs. L'assemblée générale (les membres titulaires) et le conseil d'administration (administrateurs et commissaire aux comptes) arrêtent la politique et les plans. Le commissaire aux comptes contrôle les activités et les finances."}]
+19:["$","meta","17",{"name":"twitter:image","content":"https://new.ren-nanmin.org/og/og-fr.png"}]
+1a:["$","link","18",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}]
+1b:["$","link","19",{"rel":"icon","href":"/favicon.ico","sizes":"any"}]
+1c:["$","link","20",{"rel":"icon","href":"/icons/icon-32.png","type":"image/png","sizes":"32x32"}]
+1d:["$","link","21",{"rel":"icon","href":"/icons/icon-192.png","type":"image/png","sizes":"192x192"}]
+1e:["$","link","22",{"rel":"apple-touch-icon","href":"/icons/apple-touch-icon.png","sizes":"180x180"}]
+1f:["$","$L29","23",{}]
+20:["$","meta",null,{"name":"next-size-adjust","content":""}]
+22:["$","$1","c",{"children":[null,["$","$L2a",null,{"parallelRouterKey":"children","template":["$","$L2b",null,{}]}]]}]
+25:["$","$1","c",{"children":[null,["$","$L2a",null,{"parallelRouterKey":"children","template":["$","$L2b",null,{}]}]]}]
+28:true
+7:300
+7:C
+27:0
+21:"$undefined"
+23:"$undefined"
+26:"$undefined"
+6:"$undefined"

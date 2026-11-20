@@ -1,0 +1,4 @@
+{
+  "_help": "Add one entry per file. Put the PDF in public/documents/ and reference it as /documents/<file>. category is one of: annualReport, financial, governance, other. Example (remove the underscore to activate): { \"title\": { \"ja\": \"2025年度 事業報告書\", \"en\": \"2025 Annual Report\", \"fr\": \"Rapport annuel 2025\" }, \"date\": \"2026-06-30\", \"file\": \"/documents/2025-annual-report.pdf\", \"category\": \"annualReport\" }",
+  "documents": []
+}

@@ -1,0 +1,40 @@
+1:"$Sreact.fragment"
+2:I[5500,["/_next/static/chunks/31u9ie4sxmdwn.js"],"Image"]
+3:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+8:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+9:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+7:X
+1d:X
+1d:C
+0:{"buildId":"uA1Uc8JWAu2NmlPQoy4H7","data":[{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"flex flex-1 flex-col","children":[["$","div",null,{"className":"border-b border-line-soft bg-paper-deep","children":["$","div",null,{"className":"mx-auto max-w-5xl px-6 pb-10 pt-12 sm:pt-14","children":["$undefined",["$","p",null,{"className":"section-label text-moss-deep ","children":"Nous soutenir"}],["$","h1",null,{"className":"font-serif text-display font-bold leading-tight text-ink mt-3","children":"Entreprises et subventions"}],["$","p",null,{"className":"mt-4 max-w-prose text-body-lg text-ink-soft","children":"L'adhésion de membre bienfaiteur pour une organisation est de 10 000 ¥ par part (annuelle, ou sous forme de don occasionnel). Contactez-nous pour en discuter."}]]}]}],["$","div",null,{"className":"mx-auto max-w-5xl px-6 py-16","children":[["$","a",null,{"href":"mailto:refugee.empw.netwk@gmail.com","className":"link-thread inline-block text-body text-indigo","children":"refugee.empw.netwk@gmail.com"}],["$","h2",null,{"className":"mt-16 text-h2 font-bold text-ink","children":"Historique des subventions"}],["$","div",null,{"className":"mt-6 flex flex-col gap-5","children":[["$","div","Public Resource Foundation",{"className":"card-interactive rounded-md border border-line-soft bg-surface p-6","children":[["$","p",null,{"className":"font-semibold text-ink","children":"Public Resource Foundation"}],["$","p",null,{"className":"mt-1 font-mono text-micro text-ink-soft","children":"Exercices 2023–2025"}],["$","p",null,{"className":"mt-2 text-body text-ink-soft","children":"Cours de japonais pour des réfugiés qui n'ont nulle part où aller"}],false]}],["$","div","Oracle Volunteers Fund",{"className":"card-interactive rounded-md border border-line-soft bg-surface p-6","children":[["$","p",null,{"className":"font-semibold text-ink","children":"Oracle Volunteers Fund"}],["$","p",null,{"className":"mt-1 font-mono text-micro text-ink-soft","children":"Exercices 2016–2017"}],["$","p",null,{"className":"mt-2 text-body text-ink-soft","children":"Événements de réconfort pour des réfugiés (danse Awa Odori, cueillette de patates douces, fête du Nouvel An)"}],["$","div",null,{"className":"mt-4 grid grid-cols-2 gap-3","children":[["$","div",null,{"className":"aspect-[4/3] overflow-hidden rounded-md","children":["$","$L2",null,{"src":"/images/awa-odori-performance.jpg","alt":"Un atelier de danse Awa Odori","width":600,"height":450,"className":"photo-grade h-full w-full object-cover"}]}],["$","div",null,{"className":"aspect-[4/3] overflow-hidden rounded-md","children":["$","$L2",null,{"src":"/images/potato-digging-cookout.jpg","alt":"Cuisiner ensemble lors d'une sortie d'arrachage de pommes de terre","width":600,"height":450,"className":"photo-grade h-full w-full object-cover"}]}]]}]]}]]}]]}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":"$@6","staleTime":"$7","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L8",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#ffffff"}]]}],["$","div",null,{"hidden":true,"children":["$","$L9",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Entreprises et subventions | REN"}],["$","meta","1",{"name":"description","content":"L'adhésion de membre bienfaiteur pour une organisation est de 10 000 ¥ par part (annuelle, ou sous forme de don occasionnel). Contactez-nous pour en discuter."}],["$","meta","2",{"name":"application-name","content":"REN"}],["$","link","3",{"rel":"manifest","href":"/site.webmanifest"}],["$","meta","4",{"name":"robots","content":"noindex, nofollow"}],["$","link","5",{"rel":"canonical","href":"https://new.ren-nanmin.org/fr/get-involved/corporate/"}],["$","link","6",{"rel":"alternate","hrefLang":"ja","href":"https://new.ren-nanmin.org/ja/get-involved/corporate/"}],["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://new.ren-nanmin.org/en/get-involved/corporate/"}],["$","link","8",{"rel":"alternate","hrefLang":"fr","href":"https://new.ren-nanmin.org/fr/get-involved/corporate/"}],"$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18"]}]}]}],"$L19"]}],"isPartial":"$@1a","staleTime":"$7","varyParams":null},{"rsc":"$L1b","isPartial":"$@1c","staleTime":"$7","varyParams":"$1d"},{"rsc":"$L1e","isPartial":"$@1f","staleTime":"$7","varyParams":"$1d"}],"isUpgradeableISRFallback":false,"a":"$@20","rootVaryParams":null,"needsRuntimeRequest":"$@21"}
+22:I[27201,["/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+23:I[39756,["/_next/static/chunks/3fntmmi971322.js"],"default"]
+24:I[37457,["/_next/static/chunks/3fntmmi971322.js"],"default"]
+5:null
+a:["$","link","9",{"rel":"alternate","hrefLang":"x-default","href":"https://new.ren-nanmin.org/ja/get-involved/corporate/"}]
+b:["$","meta","10",{"property":"og:title","content":"Entreprises et subventions"}]
+c:["$","meta","11",{"property":"og:description","content":"L'adhésion de membre bienfaiteur pour une organisation est de 10 000 ¥ par part (annuelle, ou sous forme de don occasionnel). Contactez-nous pour en discuter."}]
+d:["$","meta","12",{"property":"og:locale","content":"fr"}]
+e:["$","meta","13",{"property":"og:image","content":"https://new.ren-nanmin.org/og/og-fr.png"}]
+f:["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}]
+10:["$","meta","15",{"name":"twitter:title","content":"Entreprises et subventions"}]
+11:["$","meta","16",{"name":"twitter:description","content":"L'adhésion de membre bienfaiteur pour une organisation est de 10 000 ¥ par part (annuelle, ou sous forme de don occasionnel). Contactez-nous pour en discuter."}]
+12:["$","meta","17",{"name":"twitter:image","content":"https://new.ren-nanmin.org/og/og-fr.png"}]
+13:["$","link","18",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}]
+14:["$","link","19",{"rel":"icon","href":"/favicon.ico","sizes":"any"}]
+15:["$","link","20",{"rel":"icon","href":"/icons/icon-32.png","type":"image/png","sizes":"32x32"}]
+16:["$","link","21",{"rel":"icon","href":"/icons/icon-192.png","type":"image/png","sizes":"192x192"}]
+17:["$","link","22",{"rel":"apple-touch-icon","href":"/icons/apple-touch-icon.png","sizes":"180x180"}]
+18:["$","$L22","23",{}]
+19:["$","meta",null,{"name":"next-size-adjust","content":""}]
+1b:["$","$1","c",{"children":[null,["$","$L23",null,{"parallelRouterKey":"children","template":["$","$L24",null,{}]}]]}]
+1e:["$","$1","c",{"children":[null,["$","$L23",null,{"parallelRouterKey":"children","template":["$","$L24",null,{}]}]]}]
+21:true
+7:300
+7:C
+20:0
+1a:"$undefined"
+1c:"$undefined"
+1f:"$undefined"
+6:"$undefined"
