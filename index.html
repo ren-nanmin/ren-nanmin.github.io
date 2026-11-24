@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>REN 難民自立支援ネットワーク</title>
+    <meta name="robots" content="noindex, follow" />
+    <link rel="canonical" href="https://ren-nanmin.org/ja/" />
+    <link rel="alternate" hreflang="ja" href="https://ren-nanmin.org/ja/" />
+    <link rel="alternate" hreflang="en" href="https://ren-nanmin.org/en/" />
+    <link rel="alternate" hreflang="fr" href="https://ren-nanmin.org/fr/" />
+    <link rel="alternate" hreflang="x-default" href="https://ren-nanmin.org/ja/" />
+    <noscript><meta http-equiv="refresh" content="0; url=/ja/" /></noscript>
+    <script>
+      // Japanese is the default. Only a language the visitor chose themselves is
+      // remembered; the browser's language is deliberately not used, so search
+      // engines and everyone else always land on the Japanese home page.
+      (function () {
+        var target = "ja";
+        try {
+          var saved = window.localStorage.getItem("ren-locale");
+          if (saved === "en" || saved === "fr" || saved === "ja") target = saved;
+        } catch (e) {}
+        window.location.replace("/" + target + "/");
+      })();
+    </script>
+  </head>
+  <body style="font-family: system-ui, sans-serif; text-align: center; padding: 4rem 1rem">
+    <p><a href="/ja/">日本語</a> · <a href="/en/">English</a> · <a href="/fr/">Français</a></p>
+  </body>
+</html>

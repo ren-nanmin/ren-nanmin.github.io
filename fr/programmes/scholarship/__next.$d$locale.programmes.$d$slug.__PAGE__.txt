@@ -1,0 +1,48 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0_u0a24bupp3q.js","/_next/static/chunks/29_-5_deybawr.js","/_next/static/chunks/0jm8fjg18hpry.js"],""]
+3:I[5500,["/_next/static/chunks/0_u0a24bupp3q.js","/_next/static/chunks/29_-5_deybawr.js","/_next/static/chunks/0jm8fjg18hpry.js"],"Image"]
+4:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+9:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+a:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+8:X
+25:X
+25:C
+0:{"buildId":"WSsv2sZZt3bGM-Dbzvpp8","data":[{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"flex flex-1 flex-col","children":["$","div",null,{"className":"mx-auto max-w-5xl px-6 py-16","children":[["$","$L2",null,{"href":"/fr/programmes","className":"link-thread text-small text-ink-soft","children":["← ","Retour à toutes les activités"]}],["$","div",null,{"className":"mt-6 grid gap-10 md:grid-cols-2 md:items-center","children":[["$","div",null,{"className":"min-w-0","children":[["$","h1",null,{"className":"font-serif text-display font-bold leading-tight text-ink break-words hyphens-auto","children":"Fonds de bourses d'études"}],["$","p",null,{"className":"mt-3 text-body-lg text-ink-soft","children":"La bourse Chiyoko"}]]}],["$","div",null,{"className":"aspect-[4/3] overflow-hidden rounded-md","children":["$","$L3",null,{"src":"/images/scholarship-kakuma-camp.jpg","alt":"Camp de réfugiés de Kakuma, Kenya (photo d'archives)","width":1000,"height":750,"className":"photo-grade h-full w-full object-cover"}]}]]}],"$undefined",["$","hr",null,{"className":"mt-12 max-w-2xl border-line-soft"}],["$","div",null,{"className":"mt-12 grid gap-10 md:grid-cols-2","children":[["$","section",null,{"children":[["$","h2",null,{"className":"text-h3 font-bold text-ink","children":"De quoi s'agit-il"}],[["$","p","Chaque année, REN accorde une petite bourse d'études supérieures à environ deux étudiants réfugiés, afin qu'ils puissent un jour réussir dans leur pays d'origine.",{"className":"mt-2 whitespace-pre-line text-body text-ink-soft","children":"Chaque année, REN accorde une petite bourse d'études supérieures à environ deux étudiants réfugiés, afin qu'ils puissent un jour réussir dans leur pays d'origine."}],["$","p","Financé en partie par un don de la famille de feu Chiyoko Koba (collaboratrice à la traduction de KANEBU), ce fonds de bourses accorde des aides à des réfugiés au Japon et à l'étranger.",{"className":"mt-2 whitespace-pre-line text-body text-ink-soft","children":"Financé en partie par un don de la famille de feu Chiyoko Koba (collaboratrice à la traduction de KANEBU), ce fonds de bourses accorde des aides à des réfugiés au Japon et à l'étranger."}]]]}],["$","section",null,{"children":[["$","h2",null,{"className":"text-h3 font-bold text-ink","children":"À qui cela s'adresse"}],["$","p",null,{"className":"mt-2 text-body text-ink-soft","children":"Des réfugiés qui souhaitent poursuivre leurs études, principalement (mais pas seulement) en Afrique."}]]}],["$","section",null,{"children":[["$","h2",null,{"className":"text-h3 font-bold text-ink","children":"Coût de fonctionnement"}],["$","p",null,{"className":"mt-2 text-body text-ink-soft","children":"REN ne publie pas de détail des coûts pour ce programme. Contactez-nous directement pour plus d'informations."}]]}],["$","section",null,{"children":[["$","h2",null,{"className":"text-h3 font-bold text-ink","children":"Comment soutenir"}],["$","p",null,{"className":"mt-2 text-body text-ink-soft","children":"Soutenez directement le fonds de bourses par un don."}],["$","$L2",null,{"href":"/fr/get-involved/donate","className":"mt-4 inline-block rounded bg-marigold px-6 py-3 text-body font-semibold text-ink transition-transform hover:-translate-y-0.5","children":"Soutenir ce programme"}]]}]]}],"$undefined","$undefined"]}]}],[["$","script","script-0",{"src":"/_next/static/chunks/0jm8fjg18hpry.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":"$@7","staleTime":"$8","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L9",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#ffffff"}]]}],["$","div",null,{"hidden":true,"children":["$","$La",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Fonds de bourses d'études | REN"}],["$","meta","1",{"name":"description","content":"Chaque année, REN accorde une petite bourse d'études supérieures à environ deux étudiants réfugiés, afin qu'ils puissent un jour réussir dans leur pays d'origin…"}],"$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20"]}]}]}],"$L21"]}],"isPartial":"$@22","staleTime":"$8","varyParams":null},{"rsc":"$L23","isPartial":"$@24","staleTime":"$8","varyParams":"$25"},{"rsc":"$L26","isPartial":"$@27","staleTime":"$8","varyParams":"$25"}],"isUpgradeableISRFallback":false,"a":"$@28","rootVaryParams":null,"needsRuntimeRequest":"$@29"}
+2a:I[27201,["/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+2b:I[39756,["/_next/static/chunks/3fntmmi971322.js"],"default"]
+2c:I[37457,["/_next/static/chunks/3fntmmi971322.js"],"default"]
+6:null
+b:["$","meta","2",{"name":"application-name","content":"REN"}]
+c:["$","link","3",{"rel":"manifest","href":"/site.webmanifest"}]
+d:["$","meta","4",{"name":"robots","content":"noindex, nofollow"}]
+e:["$","link","5",{"rel":"canonical","href":"https://new.ren-nanmin.org/fr/programmes/scholarship/"}]
+f:["$","link","6",{"rel":"alternate","hrefLang":"ja","href":"https://new.ren-nanmin.org/ja/programmes/scholarship/"}]
+10:["$","link","7",{"rel":"alternate","hrefLang":"en","href":"https://new.ren-nanmin.org/en/programmes/scholarship/"}]
+11:["$","link","8",{"rel":"alternate","hrefLang":"fr","href":"https://new.ren-nanmin.org/fr/programmes/scholarship/"}]
+12:["$","link","9",{"rel":"alternate","hrefLang":"x-default","href":"https://new.ren-nanmin.org/ja/programmes/scholarship/"}]
+13:["$","meta","10",{"property":"og:title","content":"Fonds de bourses d'études"}]
+14:["$","meta","11",{"property":"og:description","content":"Chaque année, REN accorde une petite bourse d'études supérieures à environ deux étudiants réfugiés, afin qu'ils puissent un jour réussir dans leur pays d'origin…"}]
+15:["$","meta","12",{"property":"og:locale","content":"fr"}]
+16:["$","meta","13",{"property":"og:image","content":"https://new.ren-nanmin.org/images/_opt/scholarship-kakuma-camp-og.jpg"}]
+17:["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}]
+18:["$","meta","15",{"name":"twitter:title","content":"Fonds de bourses d'études"}]
+19:["$","meta","16",{"name":"twitter:description","content":"Chaque année, REN accorde une petite bourse d'études supérieures à environ deux étudiants réfugiés, afin qu'ils puissent un jour réussir dans leur pays d'origin…"}]
+1a:["$","meta","17",{"name":"twitter:image","content":"https://new.ren-nanmin.org/images/_opt/scholarship-kakuma-camp-og.jpg"}]
+1b:["$","link","18",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}]
+1c:["$","link","19",{"rel":"icon","href":"/favicon.ico","sizes":"any"}]
+1d:["$","link","20",{"rel":"icon","href":"/icons/icon-32.png","type":"image/png","sizes":"32x32"}]
+1e:["$","link","21",{"rel":"icon","href":"/icons/icon-192.png","type":"image/png","sizes":"192x192"}]
+1f:["$","link","22",{"rel":"apple-touch-icon","href":"/icons/apple-touch-icon.png","sizes":"180x180"}]
+20:["$","$L2a","23",{}]
+21:["$","meta",null,{"name":"next-size-adjust","content":""}]
+23:["$","$1","c",{"children":[null,["$","$L2b",null,{"parallelRouterKey":"children","template":["$","$L2c",null,{}]}]]}]
+26:["$","$1","c",{"children":[null,["$","$L2b",null,{"parallelRouterKey":"children","template":["$","$L2c",null,{}]}]]}]
+29:true
+8:300
+8:C
+28:0
+22:"$undefined"
+24:"$undefined"
+27:"$undefined"
+7:"$undefined"
